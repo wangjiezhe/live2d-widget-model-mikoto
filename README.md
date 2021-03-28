@@ -4,3 +4,11 @@
 [![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/live2d-widget-model-mikoto?logo=jsdelivr&style=flat-square)](https://www.jsdelivr.com/package/npm/live2d-widget-model-mikoto)
 
 Source: [Collections of lived2d models](https://github.com/xiaoski/live2d_models_collection).
+
+## preview
+
+![preview-1](preview/preview-1.png)
+
+![preview-2](preview/preview-2.png)
+
+![preview-3](preview/preview-3.png)
